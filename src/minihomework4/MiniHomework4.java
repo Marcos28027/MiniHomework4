@@ -17,6 +17,7 @@ public class MiniHomework4 {
         // TODO code application logic here
         System.out.println("This is the first commit to the second branch");
         System.out.println("This is the second commit to the second branch");
+        System.out.println("This is the third commit to the second branch");
     }
 
 }
