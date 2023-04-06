@@ -15,6 +15,8 @@ public class MiniHomework4 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("This is the main branch");
+        System.out.println("This is the first commit to the main branch");
     }
     
 }
